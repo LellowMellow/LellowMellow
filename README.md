@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/dr11291129@gmail.com-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<a href="https://www.instagram.com/lell0w_mell0w/"><img src="https://img.shields.io/badge/lell0w_mell0w-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
