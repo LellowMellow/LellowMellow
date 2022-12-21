@@ -1,9 +1,7 @@
-<a href="https://www.instagram.com/lell0w_mell0w/"><img src="https://img.shields.io/badge/lell0w_mell0w-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@pexe99"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/dr11291129@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/like lion univ 10th-f97316?style=flat-square&logo=Lion Air&logoColor=white"/> <a href="https://www.instagram.com/lell0w_mell0w/"><img src="https://img.shields.io/badge/lell0w_mell0w-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@pexe99"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a> <img src="https://img.shields.io/badge/dr11291129@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white"/>
   
 Howdy!🖐️🌻 I'm dreaming of becoming a **front-end developer**.🔥  
 I'm interested in **JS, React**.🚀  
-
-<img src="https://img.shields.io/badge/like lion univ 10th-f97316?style=flat-square&logo=Lion Air&logoColor=white"/>
 
 ### 🛠️ Skills
 
