@@ -1,4 +1,5 @@
-![Frame 27](https://github.com/LellowMellow/LellowMellow/assets/79556112/a4aec7c7-ec80-4791-a44b-9e77c9379b6e)
+![Frame 27](https://github.com/LellowMellow/LellowMellow/assets/79556112/d1277646-dbe4-4bec-a3e0-b83ae7c2ef60)
+
 
 ### ✨ LELLOW MELLOW ──  
 **"지속적인 노력을 바탕으로 함께하는 성장을 도모합니다."**  
