@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/Java-0b2c4a?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=white"/>
 
 ### EDUCATION & ACTIVITY ──
-- #### 인하대학교 컴퓨터공학과 전공 > `2018/03 - ...`
-- #### 인하대학교 멋쟁이사자처럼 10기 FE 파트 활동 > `2022.03 - 2022.12`
-- #### 인하대학교 멋쟁이사자처럼 11기 대표 > `2023.03 - ...`
+- **인하대학교 컴퓨터공학과 전공 > `2018/03 - ...`**
+- **인하대학교 멋쟁이사자처럼 10기 FE 파트 활동 > `2022.03 - 2022.12`**
+- **인하대학교 멋쟁이사자처럼 11기 대표 > `2023.03 - ...`**
