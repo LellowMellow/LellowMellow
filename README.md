@@ -1,6 +1,6 @@
 ![Frame 27](https://github.com/LellowMellow/LellowMellow/assets/79556112/09c15ede-4157-480e-891f-ec54ecfe4149)
 
-### ✨ LELLOW MELLOW ──  
+### ✨ LELLOW MELLOW ──   
 **"지속적인 노력을 바탕으로 함께하는 성장을 도모합니다."**  
 배움과 나눔의 가치를 보다 많은 사람과 나누고 싶은, 웹 프론트엔드 개발자를 꿈꾸는 대학생, **이동령**입니다.  
 
